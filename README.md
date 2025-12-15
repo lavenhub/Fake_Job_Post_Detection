@@ -25,3 +25,7 @@ Kaggle Fake Job Postings Dataset
 ## Limitations
 - Classical ML struggles with very short scam messages
 - Transformer models perform better
+
+## Model Weights
+Trained model files are hosted on Hugging Face:
+https://huggingface.co/lavenhub/fake-job-posting-detector-svm
