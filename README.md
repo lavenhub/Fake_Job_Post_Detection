@@ -31,9 +31,9 @@ Trained model files are hosted on Hugging Face:
 https://huggingface.co/lavenhub/fake-job-posting-detector-svm
 
 ## steps to test the model
-download app.py,tfidf.pkl,svm_model.pkl from files and version option
-save on the files in single folder loacally
-set up the enviroment in command prompt for the given folder where the files are stored
-run the command: pip install streamlit scikit-learn joblib
-then execute: streamlit run app.py
-local host will get directed to a webpage to test the model
+- download app.py,tfidf.pkl,svm_model.pkl from files and version option
+- save all the files in single folder loacally
+- set up the enviroment in command prompt for the given folder where the files are stored
+- run the command: pip install streamlit scikit-learn joblib
+- execute: streamlit run app.py
+- local host will get directed to a webpage to test the model
